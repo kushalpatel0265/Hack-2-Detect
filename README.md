@@ -4,11 +4,26 @@ This repository contains the code and documentation for our multi-camera person 
 
 ---
 
+## Demo Video
+
+Below is a demo video of our implementation. The video is set to autoplay and loop continuously.
+
+<div align="center">
+  <video width="640" height="360" controls autoplay loop muted>
+    <source src="https://github.com/kushalpatel0265/Person-Re-identification-through-multiple-camera/blob/main/Demo%20Video%20of%20Implementation.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+---
+
 ## Pipeline Diagram
 
 Below is our pipeline diagram that visually represents the entire process:
 
 ![Pipeline Diagram](https://github.com/kushalpatel0265/Person-Re-identification-through-multiple-camera/blob/main/Pipeline.png)
+
+---
 
 ## Team Information
 
@@ -42,3 +57,11 @@ Our pipeline is organized into the following main modules:
    - Generated a report detailing the last known location of each individual (camera and timestamp).
 
 ---
+
+## How to Run
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/kushalpatel0265/Person-Re-identification-through-multiple-camera.git
+   cd Person-Re-identification-through-multiple-camera
