@@ -8,7 +8,9 @@ This repository contains the code and documentation for our multi-camera person 
 
 Click the image below to watch the demo video in a new tab:
 
-[![Demo Video]](https://github.com/kushalpatel0265/Person-Re-identification-through-multiple-camera/blob/main/Demo%20Video%20of%20Implementation.mp4)
+[![Demo Video Thumbnail](https://via.placeholder.com/640x360.png?text=Demo+Video)](https://github.com/kushalpatel0265/Person-Re-identification-through-multiple-camera/blob/main/Demo%20Video%20of%20Implementation.mp4)
+
+---
 
 ## Pipeline Diagram
 
