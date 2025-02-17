@@ -4,6 +4,12 @@ This repository contains the code and documentation for our multi-camera person 
 
 ---
 
+## Pipeline Diagram
+
+Below is our pipeline diagram that visually represents the entire process:
+
+![Pipeline Diagram](https://github.com/kushalpatel0265/Person-Re-identification-through-multiple-camera/blob/main/Pipeline.png)
+
 ## Team Information
 
 - **Team Name:** Team=Lzzy
@@ -36,9 +42,3 @@ Our pipeline is organized into the following main modules:
    - Generated a report detailing the last known location of each individual (camera and timestamp).
 
 ---
-
-## Pipeline Diagram
-
-Below is our pipeline diagram that visually represents the entire process:
-
-![Pipeline Diagram](https://github.com/kushalpatel0265/Person-Re-identification-through-multiple-camera/blob/main/Pipeline.png)
